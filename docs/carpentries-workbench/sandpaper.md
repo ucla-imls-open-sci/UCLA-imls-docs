@@ -55,3 +55,5 @@ If you look closely you a small icon to the right of the broom in the viewer win
 episode into a browser window.
 
 ![Pop-out Icon]({{ site.baseurl }}/assets/img/workbench/pop_out.png)
+
+There are more ***sandpaper::*** commands if you browse around in the R Studio console but these are the most important ones that will be used.
