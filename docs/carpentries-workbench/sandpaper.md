@@ -1,7 +1,8 @@
 ---
 title: Into Sandpaper
-layout: home
+layout: default
 parent: Carpentries Workbench
+nav_order: 1
 ---
 
 ## What is Sandpaper?

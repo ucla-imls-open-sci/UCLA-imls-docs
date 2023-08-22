@@ -1,6 +1,6 @@
 ---
 title: Carpentries Workbench
-layout: home
+layout: default
 permalink: /docs/carpentries-workbench
 has_children: true
 ---
