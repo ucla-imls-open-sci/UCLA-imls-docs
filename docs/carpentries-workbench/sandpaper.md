@@ -11,7 +11,7 @@ Sandpaper is the an R Studio package that is used in the Carpentries Workbench. 
 It comes with a suite of commands that help you build, preview, and run the site. You can preview these commands in the R Studio Console by 
 typing out "sandpaper::" . A list of commands should appear after the "::" . Below we will document and describe several key commands. 
 Each command also has a short description that you can read.
-![R Studio Console Accepts Sandpaper Commands]({{ site.basurl }}/assets/img/workbench/sandpaper_console.png)
+![R Studio Console Accepts Sandpaper Commands]({{ site.baseurl }}/assets/img/workbench/sandpaper_console.png)
 
 ### sandpaper::create_lesson()
 

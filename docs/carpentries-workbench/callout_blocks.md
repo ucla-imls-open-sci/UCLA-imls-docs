@@ -8,6 +8,12 @@ nav_order: 2
 The Carpentries Workbench comes with a customized version of Pandoc. What is pandoc? Pandoc is a tool that allows for custom callout blocks.
 These blocks can be used in a variety of ways from challenge questions to discussion points. A formative list of all the [Callout Blocks](https://carpentries.github.io/sandpaper-docs/component-guide.html) supported by the Carpentries are found in that link.
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Callout Blocks
 
 Callout blocks are created through ***fenced divs***. These are a pair of 3 or more ***:::*** at the beginning and end of what you are 
