@@ -11,7 +11,7 @@ parent: Lesson Repository Setup
         - Mac: Use `brew upgrade git` to update to the latest version.
         - Windows: Use `git update-git-for-windows` to update git to the latest version.
 1. **Install Required Packages in R Studio Console**\
-    ![img]()\
+    ![img]({{ site.baseurl }}/assets/img/repo-setup/1.jpg)\
     - Navigate to R Studio, and then go to console, and run these commands:
         - `CRANoptions(repos = c(carpentries = "https://carpentries.r-universe.dev/", CRAN = "https://cran.rstudio.com/"))`
         - `install.packages(c("sandpaper", "varnish", "pegboard","tinkr"))`
@@ -26,21 +26,21 @@ parent: Lesson Repository Setup
     ```
 1. **Link to Git in R Studio**
     - Tools -> Global Options\
-    ![img]()
+    ![img]({{ site.baseurl }}/assets/img/repo-setup/2a.png)
     - Link the git.exe to Git executable\
-    ![img]()
+    ![img]({{ site.baseurl }}/assets/img/repo-setup/2b.png)
 1. **Generate SSH key in R Studio**
     - Tools -> Global Options\
-    ![img]()
+    ![img]({{ site.baseurl }}/assets/img/repo-setup/3a.png)
     - When you create an SSH key, it generates two files. One is a private file that can only be used on your local machine, and another one is the public key that needs to be added to your github account. 
 1. **Copy Public Key**
-    - Click on "View public key" in the Global Options section to copy your public key\
-    ![img]()
+    - Click on "View public key" to copy your public key\
+    ![img]({{ site.baseurl }}/assets/img/repo-setup/4.png)
 
 1. **Add Public Key to your GitHub Account**
     - Settings -> SSH and GPG keys\
-    ![img]()\
-    ![img]()
+    ![img]({{ site.baseurl }}/assets/img/repo-setup/5a1.png)\
+    ![img]({{ site.baseurl }}/assets/img/repo-setup/5a2.png)
     - Click on New SSH Key. Name it, and paste the public SSH key that was copied earlier.
 1. **Add SSH key to SSH agent.**
     - Open Terminal in R Studio, and run these commands:
