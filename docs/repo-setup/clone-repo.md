@@ -2,7 +2,10 @@
 title: Clone a Repository to your Local Device
 layout: home
 parent: Lesson Repository Setup
+nav_order: 2
 ---
+
+# Clone a Repository to your Local Device
 1. Fork the [Workbench Markdown template](https://github.com/new?template_name=workbench-template-md&template_owner=carpentries) into your desired organization. You can select an organization from the drop down arrow in Owner. Please name the repository to reflect your lesson proposals.\
 ![Create a new Repository]({{ site.baseurl }}/assets/img/repo-setup/clone-repo1.png)
 2. Clone the repository to your local device. Open R studio, and go to `File -> New Project -> Version Control -> Git`.
