@@ -2,6 +2,7 @@
 title: Set up your SSH key
 layout: home
 parent: Lesson Repository Setup
+nav_order: 1
 ---
 
 # Create SSH Key and Connect Your Local Device to an Online Repository
