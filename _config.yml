@@ -1,11 +1,19 @@
-title: UCLA IMLS Documentation
+title: UCLA IMLS Docs
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 repository: "ucla-imls-open-sci/UCLA-imls-docs"
 url: https://ucla-imls-open-sci.info/UCLA-imls-docs
 
 aux_links:
-  Template Repository: https://github.com/ucla-imls-open-sci/UCLA-imls-docs
+  IMLS Documentation: https://github.com/ucla-imls-open-sci/UCLA-imls-docs
 
 back_to_top: true
 back_to_top_text: "Back to top"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/ucla-imls-open-sci/UCLA-imls-docs" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
