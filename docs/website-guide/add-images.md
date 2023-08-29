@@ -1,6 +1,6 @@
 ---
 title: Add image
-layout: home
+layout: default
 parent: Website Guide
 nav_order: 2
 ---
@@ -11,6 +11,7 @@ nav_order: 2
 1. Images in the repository is stored under assets/img
 ![Alt text]({{ site.baseurl }}/assets/img/website-guide/screenshot-asset-img.png)
 
+... [more instructions here] ... 
 
 ...
 

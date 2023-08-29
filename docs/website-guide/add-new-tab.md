@@ -1,0 +1,20 @@
+---
+title: Add tab
+layout: default
+parent: Website Guide
+nav_order: 2
+---
+
+
+
+# How to add new tabs to the website? 
+
+
+
+... [list of instructions here] ... 
+
+**You have successfully added a tab to the github pages repository. Congratulations!** 🎉🎉
+
+
+
+
