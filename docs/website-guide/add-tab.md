@@ -5,11 +5,7 @@ parent: Website Guide
 nav_order: 2
 ---
 
-
-
-# How to add new tabs to the website? 
-
-
+# How to add tabs to the website? 
 
 ... [list of instructions here] ... 
 
