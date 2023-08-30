@@ -19,25 +19,17 @@ Before learning to edit and update the website, it's better to have a basic unde
 
 - `_config.yml`
 is a YAML file that stores configuration data, which include site settings and rarely changed variables (name, description, etc.)
-
 > note: folders that starts with a "_" are special folders associatedwith the jekyll template. Every other directory/file such as `css` files and `images` folder are generate verbatim to site. 
 
-
-- `_data`: 
-contains well-formatted site data. Jekyll automatically loads its children files (in `.yml`, `.yaml`, `.json`, `.csv` or `.tsv`) to be accessible via `site.data`. 
-
-To access contents of a file: for a file named `members.yml`, use code `site.data.members`.
-
+- **`_data`**: 
+contains well-formatted site data. Jekyll automatically loads its children files (in `.yml`, `.yaml`, `.json`, `.csv` or `.tsv`) to be accessible via `site.data`. (To access contents of a file: for a file named `members.yml`, use code `site.data.members`)
     - `navigation.yml` navigation for the pages
-
     - `sitetext.yml`
-
     - `style.yml`
 
 - `_includes`:
 partial html pages mixed and matched by layouts and posts to facilitate reuse. 
     
-
 - `_layouts`:
 html templates that wrap posts, chosen on a post-by-post basis in the front matter. 
 
