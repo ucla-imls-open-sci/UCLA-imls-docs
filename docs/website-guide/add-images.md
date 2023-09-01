@@ -33,9 +33,3 @@ nav_order: 2
 
 
 
-
-**You have successfully added an image to the github pages repository. Congratulations!** 🎉🎉
-
-
-
-

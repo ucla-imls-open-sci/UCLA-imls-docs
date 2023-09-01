@@ -5,12 +5,24 @@ parent: Website Guide
 nav_order: 3
 ---
 
-# How to add tabs to the website? 
+# Adding tabs
 
 1. Go to `_data/navigation.yml` file: 
 
+![nav folder]({{ site.baseurl }}/assets/img/website-guide/add-tab-1.png)
 
-**You have successfully added a tab to the github pages repository. Congratulations!** 🎉🎉
+
+2. Edit and specify the title and section of the tab you wish to add. 
+
+    For example, this line: 
+
+    ![nav tab code]({{ site.baseurl }}/assets/img/website-guide/add-tab-2.png)
+
+    results in the following display on the website: 
+
+    ![tab display]({{ site.baseurl }}/assets/img/website-guide/add-tab-3.png)
+
+
 
 
 
