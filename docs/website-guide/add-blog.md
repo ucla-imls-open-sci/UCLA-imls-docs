@@ -7,15 +7,19 @@ nav_order: 2
 
 
 
-# How to add blogs to the website? 
+# Adding blogs posts 
 
-1. navigate to the `_posts` directory
+1. Navigate to the `_posts` directory
 
-The naming convention of these files is important, and must follow the format: '`YEAR-MONTH-DAY-title.MARKUP`'. The permalinks can be customized for each post, but the date and markup language are determined solely by the file name.
+2. On the top right corner: Add file -> create new file 
 
-... [list of instructions here] ... 
+    ![create new blog]({{ site.baseurl }}/assets/img/website-guide/add-blog-2.png)
+    
+    **Note** The naming convention of these .md files is important, and must follow the format: '`YEAR-MONTH-DAY-title.MARKUP`'. The permalinks can be customized for each post, but the date and markup language are determined solely by the file name.
 
-**You have successfully added a blogs to the github pages repository. Congratulations!** 🎉🎉
+3. Update the title, layout and author of the file
+
+    ![update blog information]({{ site.baseurl }}/assets/img/website-guide/add-blog-3.png)
 
 
 

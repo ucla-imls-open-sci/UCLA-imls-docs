@@ -24,7 +24,7 @@ is a YAML file that stores configuration data, which include site settings and r
 - **`_data`**: 
 contains well-formatted site data. Jekyll automatically loads its children files (in `.yml`, `.yaml`, `.json`, `.csv` or `.tsv`) to be accessible via `site.data`. (To access contents of a file: for a file named `members.yml`, use code `site.data.members`)
     - `navigation.yml` navigation for the pages
-    - `sitetext.yml`
+    - `sitetext.yml` edit text for the website here 
     - `style.yml`
 
 - `_includes`:
