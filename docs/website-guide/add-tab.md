@@ -2,7 +2,7 @@
 title: Add tab
 layout: default
 parent: Website Guide
-nav_order: 2
+nav_order: 3
 ---
 
 # How to add tabs to the website? 

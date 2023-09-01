@@ -2,7 +2,7 @@
 title: Add blog
 layout: default
 parent: Website Guide
-nav_order: 2
+nav_order: 1
 ---
 
 
@@ -21,6 +21,8 @@ nav_order: 2
 
     ![update blog information]({{ site.baseurl }}/assets/img/website-guide/add-blog-3.png)
 
+4. Your new blog should now show up on the website after you push and deploy your changes! 
 
+    ![blog post displayed on site]({{ site.baseurl }}/assets/img/website-guide/add-blog-4.png)
 
 
