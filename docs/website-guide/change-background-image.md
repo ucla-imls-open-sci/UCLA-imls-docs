@@ -2,7 +2,7 @@
 title: Change background image
 layout: home
 parent: Website Guide
-nav_order: 2
+nav_order: 4
 ---
 
 
