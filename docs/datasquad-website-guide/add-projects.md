@@ -31,7 +31,7 @@ nav_order: 1
 6. **Add content to your project.**
 <img src="{{ site.baseurl }}/assets/img/datasquad-website-guide/add-project/step4-2.png" alt="step6" width="600"/>
 
-7. **Once your push your changes to the main branch, you should see something like this:**
+7. **Once you push your changes to the main branch, you should see something like this:**
 <img src="{{ site.baseurl }}/assets/img/datasquad-website-guide/add-project/step5.png" alt="step7" width="800"/>\
 This is what it looks like when you click on the project card:
 <img src="{{ site.baseurl }}/assets/img/datasquad-website-guide/add-project/step5-1.png" alt="step7" width="800"/>
