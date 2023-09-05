@@ -1,7 +1,7 @@
 ---
 title: Add image
 layout: default
-parent: Website Guide
+parent: IMLS Website Guide
 nav_order: 2
 ---
 

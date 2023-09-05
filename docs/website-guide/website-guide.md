@@ -1,5 +1,5 @@
 ---
-title: Website Guide
+title: IMLS Website Guide
 layout: default
 permalink: /docs/website-guide
 has_children: true
