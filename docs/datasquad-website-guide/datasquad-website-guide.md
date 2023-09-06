@@ -2,7 +2,8 @@
 title: DataSquad Website Guide
 layout: default
 permalink: /docs/datasquad-website-guide
-has_children: true
+has_children: true 
+nav_order: 4
 ---
 
 Refer to [Add Projects]({{ site.baseurl }}/docs/datasquad-website-guide/add-projects) and 

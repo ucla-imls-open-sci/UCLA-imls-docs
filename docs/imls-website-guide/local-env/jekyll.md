@@ -2,6 +2,7 @@
 title: Jekyll
 layout: default
 parent: Local Environment
+grand_parent: IMLS Website Guide
 nav_order: 1
 ---
 

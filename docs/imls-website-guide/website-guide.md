@@ -3,6 +3,7 @@ title: IMLS Website Guide
 layout: default
 permalink: /docs/website-guide
 has_children: true
+nav_order: 5.5
 ---
 
 # Website Guide
@@ -35,3 +36,8 @@ html templates that wrap posts, chosen on a post-by-post basis in the front matt
 
 - `_posts`: 
 contain blog posts for the website.
+
+## Making Changes Locally
+
+If you plan to making and previewing changes locally rather than working directly on github.com, go through the 
+[*Local Environment guide*]({{ site.baseurl }}/docs/imls-website-guide/local-env/local-env.html) first.
