@@ -1,5 +1,5 @@
 ---
-title: Timeline
+title: Modifying timeline
 layout: default
 parent: IMLS Website Guide
 nav_order: 5
