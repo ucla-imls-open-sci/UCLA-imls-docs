@@ -1,9 +1,23 @@
 ---
-title: MacOS
+title: Jekyll
 layout: default
 parent: Local Environment
 nav_order: 1
 ---
+
+# Jekyll
+
+This documentation is to help you setup jekyll on your local machine and download the right rubygems and ruby.
+
+-------
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+# MacOS
 
 This is the documentation for setting up Jekyll on your local Mac environment. First you need to setup "rbenv."
 
