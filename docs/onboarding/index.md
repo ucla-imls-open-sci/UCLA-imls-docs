@@ -6,7 +6,7 @@ has_children: true
 nav_order: 2
 ---
 
-#Onboarding
+# Onboarding
 
 This documentation is written for students that onboarding to the UCLA IMLS
 
