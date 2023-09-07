@@ -3,7 +3,7 @@ title: IMLS Website Guide
 layout: default
 permalink: /docs/website-guide
 has_children: true
-nav_order: 7
+nav_order: 5
 ---
 
 # Website Guide

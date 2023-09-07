@@ -3,7 +3,7 @@ title: Carpentries Workbench
 layout: default
 permalink: /docs/carpentries-workbench
 has_children: true
-nav_order: 3
+nav_order: 4
 ---
 
 # Carpentries Workbench
