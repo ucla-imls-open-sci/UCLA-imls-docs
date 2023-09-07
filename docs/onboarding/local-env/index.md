@@ -1,7 +1,7 @@
 ---
 title: Local Environment
 layout: default
-parent: IMLS Website Guide
+parent: Onboarding
 has_children: true
 nav_order: 1
 ---
