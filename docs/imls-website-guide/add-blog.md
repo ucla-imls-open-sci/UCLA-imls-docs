@@ -2,7 +2,7 @@
 title: Add blog
 layout: default
 parent: IMLS Website Guide
-nav_order: 1
+nav_order: 2
 ---
 
 

@@ -2,7 +2,7 @@
 title: Add Lesson
 layout: default
 parent: IMLS Website Guide
-nav_order: 4
+nav_order: 5
 ---
 
 # Adding a Lesson Entry

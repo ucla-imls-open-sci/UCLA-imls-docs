@@ -2,7 +2,7 @@
 title: Modifying timeline
 layout: default
 parent: IMLS Website Guide
-nav_order: 5
+nav_order: 6
 ---
 
 # Changing the Timeline
