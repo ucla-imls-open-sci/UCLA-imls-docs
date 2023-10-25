@@ -1,8 +1,8 @@
 title: UCLA IMLS Docs
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-repository: "ucla-imls-open-sci/UCLA-imls-docs"
-url: https://ucla-imls-open-sci.info/UCLA-imls-docs
+repository: "ucla-imls-open-sci/ucla-imls-docs"
+url: https://ucla-imls-open-sci.info/ucla-imls-docs
 
 aux_links:
   IMLS Documentation: https://github.com/ucla-imls-open-sci/UCLA-imls-docs
