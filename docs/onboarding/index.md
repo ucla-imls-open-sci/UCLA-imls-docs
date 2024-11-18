@@ -3,7 +3,7 @@ title: Onboarding
 layout: default
 permalink: /docs/onboarding
 has_children: true
-nav_order: 2
+nav_order: 4
 ---
 
 # Onboarding
