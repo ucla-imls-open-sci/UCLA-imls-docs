@@ -1,4 +1,47 @@
-# just-the-docs-template
+You're right! If this repository serves as the documentation hub for the project, the README should emphasize that. Here's the revised text:
+
+---
+
+# UCLA IMLS Open Science Project Documentation
+
+This repository houses the **documentation** for the IMLS-funded project, *Lessons for Librarians in Open Science Principles and Methods*. The project focuses on developing modular, reusable curricula to train librarians in open science practices, equipping them to support researchers and advocate for transparency and reproducibility in research.
+
+## About the Project
+
+- **Goal**: Create 14 modular open science lessons tailored for librarians.
+- **Funding**: Supported by the Institute of Museum and Library Services (IMLS) under the Laura Bush 21st Century Librarian Program.
+- **Scope**:
+  - Build open-source lesson modules.
+  - Train librarians through virtual summer schools.
+  - Align lessons with national and international open science standards.
+
+## About This Repository
+
+This repository contains:
+- **Project Documentation**: Guidelines, plans, and updates about the project.
+- **Lesson Development Resources**: Templates, tools, and best practices for contributors.
+- **Technical Information**: Instructions for setting up and maintaining the project infrastructure.
+
+## Useful Links
+
+- [Project Website](https://ucla-imls-open-sci.info/)
+- [GitHub Organization](https://github.com/ucla-imls-open-sci)
+- [Library Carpentry](https://librarycarpentry.org/)
+- [IMLS Grant Information](https://www.imls.gov/grants/awarded/re-252335-ols-22)
+
+## Acknowledgments
+
+This project is supported by the **Institute of Museum and Library Services (IMLS)**.
+
+![IMLS Logo](https://example.com/path-to-logo.png)
+
+## Contributing
+
+Contributions to the project are welcome! Please see the repository's [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to get involved.
+
+---
+
+### just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
