@@ -17,23 +17,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler-cache: true
-          cache-version: 0 # Increment this number to reset cached gems
-
-      - name: Unfreeze Bundler (if necessary)
-        run: bundle config set frozen false
+          bundler-cache: false # Disable automatic bundler cache to control behavior
 
       - name: Install Dependencies
-        run: bundle install --no-deployment --without development test
+        run: |
+          bundle config set frozen false
+          bundle install
 
       - name: Build with Jekyll
         run: bundle exec jekyll build
-
-      - name: Verify Updated Gemfile.lock (optional)
-        if: always()
-        run: |
-          if git diff --quiet Gemfile.lock; then
-            echo "Gemfile.lock is up-to-date.";
-          else
-            echo "Gemfile.lock has been modified. Review changes locally.";
-          fi
