@@ -1,7 +1,3 @@
-You're right! If this repository serves as the documentation hub for the project, the README should emphasize that. Here's the revised text:
-
----
-
 # UCLA IMLS Open Science Project Documentation
 
 This repository houses the **documentation** for the IMLS-funded project, *Lessons for Librarians in Open Science Principles and Methods*. The project focuses on developing modular, reusable curricula to train librarians in open science practices, equipping them to support researchers and advocate for transparency and reproducibility in research.
