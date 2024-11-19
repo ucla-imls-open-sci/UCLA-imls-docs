@@ -22,11 +22,6 @@ This documentation is written for students that onboarding to the UCLA IMLS
 
     Carpentries Workbench:  [https://carpentries.github.io/sandpaper-docs/](https://carpentries.github.io/sandpaper-docs/)
 
-    Example Repositories created by students:
-    - [Loretta](https://ucla-imls-open-sci.info/regression-in-ML/)
-    - [Hyerin](ucla-imls-open-sci.info/cleaning-data/)
-    - [Lawrence](https://ucla-imls-open-sci.info/cpp_guide/)
-
 5. **Read about the Carptentries**
     - [History, Structure, Pedagogy](https://carpentries.github.io/instructor-training/)
     - [Instructor Training](https://carpentries.github.io/instructor-training/01-welcome.html#a-brief-overview-of-the-carpentries)
@@ -38,4 +33,4 @@ This documentation is written for students that onboarding to the UCLA IMLS
     Go to Local Environment and setup your personal machine. If you are using a laptop from the DSC it should be setup after running
     the required shell script.
 
-    [Local Environment]({{ site.baseurl }}/docs/onboarding/local-env)
+    [Local Environment]({{ site.baseurl }}/docs/imls-website-guide/local-env)
