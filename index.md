@@ -1,3 +1,9 @@
+---
+title: Home
+layout: home
+nav_order: 1
+---
+
 # Lessons for Librarians in Open Science Principles and Methods
 
 The [UCLA Library](https://www.library.ucla.edu/) is leading an initiative to develop a modular curriculum that trains librarians in open science practices. This project is funded by the Institute of Museum and Library Services (IMLS) under the Laura Bush 21st Century Librarian Program and aims to enhance librarians' ability to support researchers in adopting open science principles.
